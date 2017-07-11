@@ -1,0 +1,16 @@
+{
+  "parser": "babel-eslint", //es6语法检测
+  //"extends": "eslint:recommended",
+  /*"ecmaFeatures": {
+    "modules": true
+  },*/
+  /*"env":{
+    "es6": true,
+    "browser": true,
+    "node": true
+  },*/
+
+  "rules": {
+    //"max-len": [1, 70, 2, {"ignoreComments": true}]
+  }
+}
